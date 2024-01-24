@@ -4,7 +4,7 @@ body {
     padding:0px;
     margin:0px;
     background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("./assets/bg.png") center center;
-    background-size:80vw auto;
+    background-size:100vw auto;
     width:100vw;
     height:100vh;
     overflow:hidden;
@@ -340,6 +340,31 @@ body {
 ::selection {
 	color: #fff;
 	background: rgb(255, 50, 50);
+}
+.text {
+  margin-top: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Arial;
+  font-size: 1em;
+}
+
+@media (min-width: 600px) {
+  .text {
+    font-size: 1.1em;
+  }
+}
+
+@media (min-width: 1100px) {
+  .text {
+    font-size: 1.2em;
+  }
+}
+
+@media (min-width: 2200px) {
+  .text {
+    font-size: 1.4em;
+  }
 }
 
 @media (max-width: 800px){ 

@@ -369,19 +369,19 @@ body {
 
 @media (max-width: 1600px){ 
     #contribute {
-        font-size:25px
+        font-size:30px
 	display:none;
     }
     #about {
-        font-size:25px
+        font-size:30px
 	display:none;
     }
     #organizers {
-	font-size:25px
+	font-size:30px
 	display:none;
     }
     #speakers {
-	font-size:25px
+	font-size:30px
 	display:none;
     }
     #footer {
@@ -389,10 +389,10 @@ body {
     }
     .social {
     text-align:right;
-}
+	} 
     #middle h1 {
     color:rgb(255, 50, 50);
-    font-size:35px
+    font-size:40px
     }
     #middle {
         width:80vw auto;
@@ -408,7 +408,7 @@ body {
         width:70vw auto;
     }
     #menu {
-        display:block;
+        display:inline-block;
     }
     #onlywide {
         display:none !important;

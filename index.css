@@ -369,36 +369,27 @@ body {
 
 @media (max-width: 1600px){ 
     #contribute {
-        width:10vw auto;
-    	height:10vw auto;
-	top: 70vh auto;
-    	left: 45vw auto;
+        font-size:25px
 	display:none;
     }
     #about {
-        width:10vw auto;
-    	height:10vw auto;
-	top: 50vh auto;
-    	left: 45vw auto;
+        font-size:25px
 	display:none;
     }
     #organizers {
-	width:10vw auto;
-    	height:10vw auto;
-        top: 50vh auto;
-    	right: 45vw auto;
-        display:none;
+	font-size:25px
+	display:none;
     }
     #speakers {
-	width:10vw auto;
-    	height:10vw auto;
-	top: 70vh auto;
-    	right: 45vw auto;
-        display:none;
+	font-size:25px
+	display:none;
     }
     #footer {
-        text-align:center;
+        text-align:left;
     }
+    .social {
+    text-align:right;
+}
     #middle h1 {
     color:rgb(255, 50, 50);
     font-size:35px
@@ -417,7 +408,7 @@ body {
         width:70vw auto;
     }
     #menu {
-        display:inline-block;
+        display:block;
     }
     #onlywide {
         display:none !important;

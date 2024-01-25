@@ -393,10 +393,10 @@ body {
     }
     #middle h1 {
     color:rgb(255, 50, 50);
-    font-size:40px
+    font-size:35px
     }
     #middle {
-        width:90vw auto;
+        width:80vw auto;
         padding:0px 5vw;
     }
     #middle table {

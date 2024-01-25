@@ -369,24 +369,24 @@ body {
 
 @media (max-width: 1600px){ 
     #contribute {
-        width:40vw auto;
-    	height:40vw auto;
-	display:none;
+        width:10vw auto;
+    	height:10vw auto;
+	display:block;
     }
     #about {
-        width:40vw auto;
-    	height:40vw auto;
-	display:none;
+        width:10vw auto;
+    	height:10vw auto;
+	display:block;
     }
     #organizers {
-	width:40vw auto;
-    	height:40vw auto;
-        display:none;
+	width:10vw auto;
+    	height:10vw auto;
+        display:block;
     }
     #speakers {
-	width:40vw auto;
-    	height:40vw auto;
-        display:none;
+	width:10vw auto;
+    	height:10vw auto;
+        display:block;
     }
     #footer {
         text-align:center;

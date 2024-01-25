@@ -371,21 +371,29 @@ body {
     #contribute {
         width:10vw auto;
     	height:10vw auto;
+	top: 70vh auto;
+    	left: 45vw auto;
 	display:none;
     }
     #about {
         width:10vw auto;
     	height:10vw auto;
+	top: 50vh auto;
+    	left: 45vw auto;
 	display:none;
     }
     #organizers {
 	width:10vw auto;
     	height:10vw auto;
+        top: 50vh auto;
+    	right: 45vw auto;
         display:none;
     }
     #speakers {
 	width:10vw auto;
     	height:10vw auto;
+	top: 70vh auto;
+    	right: 45vw auto;
         display:none;
     }
     #footer {

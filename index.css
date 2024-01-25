@@ -66,8 +66,8 @@ body {
     text-decoration:underline;
 }
 #middle {
-    width:100vw auto;
-    height:90vh auto;
+    width:100vw;
+    height:90vh;
     display:flex;
     flex-direction:column;
     justify-content:center;

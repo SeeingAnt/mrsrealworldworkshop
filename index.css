@@ -367,17 +367,25 @@ body {
   }
 }
 
-@media (max-width: 800px){ 
+@media (max-width: 1600px){ 
     #contribute {
-        display:none;
+        width:10vw auto;
+    	height:10vw auto;
+	display:none;
     }
     #about {
-        display:none;
+        width:10vw auto;
+    	height:10vw auto;
+	display:none;
     }
     #organizers {
+	width:10vw auto;
+    	height:10vw auto;
         display:none;
     }
     #speakers {
+	width:10vw auto;
+    	height:10vw auto;
         display:none;
     }
     #footer {

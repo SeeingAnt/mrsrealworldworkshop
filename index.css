@@ -66,8 +66,8 @@ body {
     text-decoration:underline;
 }
 #middle {
-    width:100vw;
-    height:90vh;
+    width:100vw auto;
+    height:90vh auto;
     display:flex;
     flex-direction:column;
     justify-content:center;
@@ -383,6 +383,10 @@ body {
     #footer {
         text-align:center;
     }
+    #middle h1 {
+    color:rgb(255, 50, 50);
+    font-size:40px
+    }
     #middle {
         width:90vw auto;
         padding:0px 5vw;
@@ -408,7 +412,4 @@ body {
     #box div {
         width:100%;
     }
-  .text {
-    font-size: 0.6em;
-  }
 }

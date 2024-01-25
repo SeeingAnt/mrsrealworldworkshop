@@ -371,22 +371,22 @@ body {
     #contribute {
         width:10vw auto;
     	height:10vw auto;
-	display:block;
+	display:none;
     }
     #about {
         width:10vw auto;
     	height:10vw auto;
-	display:block;
+	display:none;
     }
     #organizers {
 	width:10vw auto;
     	height:10vw auto;
-        display:block;
+        display:none;
     }
     #speakers {
 	width:10vw auto;
     	height:10vw auto;
-        display:block;
+        display:none;
     }
     #footer {
         text-align:center;

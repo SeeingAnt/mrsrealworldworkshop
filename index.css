@@ -212,6 +212,20 @@ body {
 .container section {
     margin:8vh 0px;
 }
+
+.column {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 #used div{
     font-size:14px !important;
     display:inline-block;
